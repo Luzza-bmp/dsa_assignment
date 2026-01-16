@@ -18,4 +18,5 @@ infixToPostfix()	Converts infix to postfix
 evaluatePostfix()	Evaluates postfix expression
 ```
 **Input/Output**
-<img src="images./output2.png" width="400">
+
+![alt text](./img/output2.png)
