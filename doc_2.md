@@ -1,12 +1,12 @@
-##Question 2
+**Question 2**
 Write a program to convert an infix mathematical expression to postfix and evaluate it.
 
-##Description
+**Description**
 This program uses a stack to:
 1) Convert infix expression to postfix.
 2) Evaluating the postfix expression with the help of operating precedence.
 
-##Important functions used in this program
+**Important functions used in this program**
 
 ```txt
 Function	        Purpose
@@ -17,5 +17,5 @@ precedence()	    Determines operator priority
 infixToPostfix()	Converts infix to postfix
 evaluatePostfix()	Evaluates postfix expression
 ```
-##Input/Output
-![Program Output](images/output2.png)
+**Input/Output**
+<img src="images./output2.png" width="400">
