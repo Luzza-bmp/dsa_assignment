@@ -33,4 +33,4 @@ Always free memory to prevent leaks.
 
 
 **Input/output**
-![alt text](./img/output3.png)
+![alt text](../img/output3.png)

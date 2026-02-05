@@ -30,4 +30,4 @@ use of your program with example graph.
  Input/Output
 
  
- ![alt text](./img/output5.png)
+ ![alt text](../img/output5.png)

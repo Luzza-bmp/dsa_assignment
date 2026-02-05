@@ -21,4 +21,4 @@ parent[] array is used to reconstruct paths
 
 Input/Output
 
- ![alt text](./img/output7.png)
+ ![alt text](../img/output7.png)

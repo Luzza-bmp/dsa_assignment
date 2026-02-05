@@ -19,4 +19,4 @@ evaluatePostfix()	Evaluates postfix expression
 ```
 **Input/Output**
 
-![alt text](./img/output2.png)
+![alt text](../img/output2.png)

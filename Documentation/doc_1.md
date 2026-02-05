@@ -23,4 +23,4 @@ Following things can be seen in the given program:
 
 **Input/Output**
 
-![alt text](./img/output2.png)
+![alt text](../img/output1.png)

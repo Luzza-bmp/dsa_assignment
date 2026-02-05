@@ -19,4 +19,4 @@ Prints the resulting heaps.
 
 Input/Output
 
- ![alt text](./img/output6.png)
+ ![alt text](../img/output6.png)
