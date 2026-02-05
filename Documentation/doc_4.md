@@ -26,6 +26,7 @@ Single-node list
 Value not sound in the list
 
 Input/Output
+
 ![alt text](../img/output4.png)
 
 
